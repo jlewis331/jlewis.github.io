@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 
 For more details see [Test](/test.md).
+For more details see [Publications](/publications.md).
 
 ### Jekyll Themes
 
