@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Test](https://jlewis331.github.io/jlewis.github.io/photos.md).
+For more details see [Test](/photos.md).
 
 ### Jekyll Themes
 
