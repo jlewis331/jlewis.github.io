@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 
-logo: [/images/citations.jpeg]
+logo: "/images/citations.jpeg"
