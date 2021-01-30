@@ -6,7 +6,7 @@ Edit
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -22,7 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](/images/citations.jpg)
-```
+
 
 For more details see [Test](/test.md).
 
