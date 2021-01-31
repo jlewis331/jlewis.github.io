@@ -6,6 +6,6 @@ layout: default
 
 _yay_
 
-![Image](/images/Midtown%20Atlanta.JPG)
+![Image](https://github.com/jlewis331/jlewis.github.io/blob/gh-pages/images/midtown_atlanta.JPG)
 
 [back](./)
