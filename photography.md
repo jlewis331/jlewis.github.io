@@ -6,6 +6,7 @@ layout: default
 _yay_
 
 ![Image](https://jlewis331.github.io/jlewis.github.io/images/yosemite_eagle_peak.jpg)
+Looking down on Yosemite Valley towards Half Dome from Eagle Peak
 
 ![Image](https://jlewis331.github.io/jlewis.github.io/images/yosemite_valley.jpg)
 
