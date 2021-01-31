@@ -2,7 +2,12 @@
 
 Edit
 
-### Markdown
+### What's with up with the name?
+
+If you've met me in person, you'll know that I go by Jack instead of John. This can be pretty confusing since I've always used my legal name (John A. Lewis) for my publications...bad undergraduate decision! This confusion only gets worse since John Lewis is an incredibly generic name, and I'm no where near the most famous John Lewis who's lived. Ironically, when I moved to Atlanta for grad school I ended up living in the district of my most famous name-sharer, the late Congressman John Lewis. 
+
+So to set the record straight - I go by Jack in my daily life, but if you want to look up my research please search for John A. Lewis!
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
