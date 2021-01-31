@@ -6,6 +6,6 @@ layout: default
 
 _yay_
 
-![Image](/images/Midtown Atlanta.jpg)
+![Image](/images/Midtown%20Atlanta.JPG)
 
 [back](./)
