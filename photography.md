@@ -6,10 +6,10 @@ layout: default
 
 _yay_
 
-![Image](https://jlewis331.github.io/jlewis.github.io/images/midtown_atlanta.JPG)
+![Image](https://jlewis331.github.io/jlewis.github.io/images/midtown_atlanta.jpg)
 
-![Image](https://jlewis331.github.io/jlewis.github.io/images/gt_library.JPG)
+![Image](https://jlewis331.github.io/jlewis.github.io/images/gt_library.jpg)
 
-![Image](https://jlewis331.github.io/jlewis.github.io/images/capay_valley.JPG)
+![Image](https://jlewis331.github.io/jlewis.github.io/images/capay_valley.jpg)
 
 [back](./)
